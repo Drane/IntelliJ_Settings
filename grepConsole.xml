@@ -5,12 +5,31 @@
         <Profile>
           <option name="defaultProfile" value="true" />
           <option name="enableAnsiColoring" value="true" />
-          <option name="enabledHighlighting" value="false" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
                 <option name="grepExpressionItems">
                   <list>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value="====" />
+                      <option name="id" value="ac86dd2b-4da8-4425-a9e4-e1d1ecd44d54" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16711897" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="830fd763-048a-4df1-ac6a-1801b1039a65" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*sql.BasicBinder.*" />
@@ -105,6 +124,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*.ispstool..*" />
                       <option name="id" value="bf886cc9-127f-42ff-94c3-cb726664abe4" />
                       <option name="style">
@@ -126,6 +146,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*FATAL.*" />
                       <option name="id" value="7622a70f-c57a-4094-9634-d57acfe8ce9d" />
                       <option name="sound">
@@ -154,6 +175,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*ERROR.*" />
                       <option name="id" value="b201bcad-7a6e-4fb7-9877-3183e1769554" />
                       <option name="sound">
@@ -179,6 +201,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*WARN.*" />
                       <option name="id" value="782f8ff0-247a-45c0-85a0-5003154cedc1" />
                       <option name="sound">
@@ -205,6 +228,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="id" value="de762208-1b80-4bb2-93e0-b0250e79bd8a" />
                       <option name="style">
@@ -220,6 +244,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*TRACE.*" />
                       <option name="id" value="2f76aa94-7894-48f5-9ae6-635c22aa9b95" />
                       <option name="style">
