@@ -25,4 +25,40 @@
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
+  <template name="_ld" value="LOGGER.debug(&quot;$END%&quot;);" description="LOGGER.debug(&quot;$END%&quot;);" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+  <template name="_lmd" value="LOGGER.debug(MarkerManager.getMarker(&quot;%VAR%&quot;),&quot;$END%&quot;);" description="LOGGER.debug(MarkerManager.getMarker(&quot;%VAR%&quot;),&quot;$END%&quot;);" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+  <template name="_m" value="MarkerManager.getMarker(&quot;%VAR%&quot;)" description="MarkerManager.getMarker(&quot;%VAR%&quot;)" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="_le" value="LOGGER.error(&quot;$END%&quot;);" description="LOGGER.error(&quot;$END%&quot;);" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
 </templateSet>
