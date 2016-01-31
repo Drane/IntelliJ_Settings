@@ -36,7 +36,7 @@
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <library>
-        <url>file://C:/Program Files (x86)/H2/bin/1.4/h2-1.4.185.jar</url>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/h2-1.3.176.jar</url>
       </library>
     </driver>
     <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
