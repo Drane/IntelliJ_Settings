@@ -1,0 +1,332 @@
+<application>
+  <component name="DebuggerSettings">
+    <option name="TRACING_FILTERS_ENABLED" value="true" />
+    <option name="FORCE_CLASSIC_VM" value="true" />
+    <option name="SKIP_SYNTHETIC_METHODS" value="true" />
+    <option name="SKIP_CLASSLOADERS" value="true" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
+    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
+    <option name="WATCH_RETURN_VALUES" value="true" />
+    <option name="AUTO_VARIABLES_MODE" value="true" />
+    <filter>
+      <option name="PATTERN" value="com.sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="java.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="javax.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.omg.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="jdk.internal.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="junit.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.intellij.rt.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.yourkit.runtime.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+  </component>
+  <component name="DependencyUISettings">
+    <option name="UI_FILTER_LEGALS" value="true" />
+  </component>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="urn:jboss:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss_1_0.xsd" />
+    <resource url="urn:jboss:cli:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-cli_1_0.xsd" />
+    <resource url="urn:jboss:cli:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-cli_1_1.xsd" />
+    <resource url="urn:jboss:cli:1.2" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-cli_1_2.xsd" />
+    <resource url="urn:jboss:cli:1.3" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-cli_1_3.xsd" />
+    <resource url="urn:jboss:deployment-dependencies:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-deployment-dependencies-1_0.xsd" />
+    <resource url="urn:jboss:domain:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-config_1_0.xsd" />
+    <resource url="urn:jboss:domain:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-config_1_1.xsd" />
+    <resource url="urn:jboss:domain:1.2" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-config_1_2.xsd" />
+    <resource url="urn:jboss:domain:1.3" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-config_1_3.xsd" />
+    <resource url="urn:jboss:domain:1.4" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-config_1_4.xsd" />
+    <resource url="urn:jboss:domain:1.5" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-config_1_5.xsd" />
+    <resource url="urn:jboss:domain:1.6" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-config_1_6.xsd" />
+    <resource url="urn:jboss:domain:1.7" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-config_1_7.xsd" />
+    <resource url="urn:jboss:domain:cmp:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-cmp_1_0.xsd" />
+    <resource url="urn:jboss:domain:cmp:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-cmp_1_1.xsd" />
+    <resource url="urn:jboss:domain:configadmin:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-configadmin_1_0.xsd" />
+    <resource url="urn:jboss:domain:datasources:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-datasources_1_0.xsd" />
+    <resource url="urn:jboss:domain:datasources:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-datasources_1_1.xsd" />
+    <resource url="urn:jboss:domain:datasources:1.2" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-datasources_1_2.xsd" />
+    <resource url="urn:jboss:domain:deployment-scanner:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-deployment-scanner_1_0.xsd" />
+    <resource url="urn:jboss:domain:deployment-scanner:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-deployment-scanner_1_1.xsd" />
+    <resource url="urn:jboss:domain:ee:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-ee_1_0.xsd" />
+    <resource url="urn:jboss:domain:ee:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-ee_1_1.xsd" />
+    <resource url="urn:jboss:domain:ee:1.2" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-ee_1_2.xsd" />
+    <resource url="urn:jboss:domain:ejb3:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-ejb3_1_0.xsd" />
+    <resource url="urn:jboss:domain:ejb3:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-ejb3_1_1.xsd" />
+    <resource url="urn:jboss:domain:ejb3:1.2" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-ejb3_1_2.xsd" />
+    <resource url="urn:jboss:domain:ejb3:1.3" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-ejb3_1_3.xsd" />
+    <resource url="urn:jboss:domain:ejb3:1.4" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-ejb3_1_4.xsd" />
+    <resource url="urn:jboss:domain:ejb3:1.5" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-ejb3_1_5.xsd" />
+    <resource url="urn:jboss:domain:infinispan:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-infinispan_1_0.xsd" />
+    <resource url="urn:jboss:domain:infinispan:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-infinispan_1_1.xsd" />
+    <resource url="urn:jboss:domain:infinispan:1.2" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-infinispan_1_2.xsd" />
+    <resource url="urn:jboss:domain:infinispan:1.3" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-infinispan_1_3.xsd" />
+    <resource url="urn:jboss:domain:infinispan:1.4" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-infinispan_1_4.xsd" />
+    <resource url="urn:jboss:domain:infinispan:1.5" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-infinispan_1_5.xsd" />
+    <resource url="urn:jboss:domain:jacorb:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-jacorb_1_0.xsd" />
+    <resource url="urn:jboss:domain:jacorb:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-jacorb_1_1.xsd" />
+    <resource url="urn:jboss:domain:jacorb:1.2" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-jacorb_1_2.xsd" />
+    <resource url="urn:jboss:domain:jacorb:1.3" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-jacorb_1_3.xsd" />
+    <resource url="urn:jboss:domain:jacorb:1.4" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-jacorb_1_4.xsd" />
+    <resource url="urn:jboss:domain:jaxr:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-jaxr_1_0.xsd" />
+    <resource url="urn:jboss:domain:jaxr:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-jaxr_1_1.xsd" />
+    <resource url="urn:jboss:domain:jaxrs:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-jaxrs_1_0.xsd" />
+    <resource url="urn:jboss:domain:jca:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-jca_1_0.xsd" />
+    <resource url="urn:jboss:domain:jca:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-jca_1_1.xsd" />
+    <resource url="urn:jboss:domain:jdr:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-jdr_1_0.xsd" />
+    <resource url="urn:jboss:domain:jgroups:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-jgroups_1_0.xsd" />
+    <resource url="urn:jboss:domain:jgroups:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-jgroups_1_1.xsd" />
+    <resource url="urn:jboss:domain:jmx:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-jmx_1_0.xsd" />
+    <resource url="urn:jboss:domain:jmx:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-jmx_1_1.xsd" />
+    <resource url="urn:jboss:domain:jmx:1.2" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-jmx_1_2.xsd" />
+    <resource url="urn:jboss:domain:jmx:1.3" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-jmx_1_3.xsd" />
+    <resource url="urn:jboss:domain:jpa:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-jpa_1_0.xsd" />
+    <resource url="urn:jboss:domain:jpa:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-jpa_1_1.xsd" />
+    <resource url="urn:jboss:domain:jsf:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-jsf_1_0.xsd" />
+    <resource url="urn:jboss:domain:jsr77:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-jsr77_1_0.xsd" />
+    <resource url="urn:jboss:domain:logging:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-logging_1_0.xsd" />
+    <resource url="urn:jboss:domain:logging:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-logging_1_1.xsd" />
+    <resource url="urn:jboss:domain:logging:1.2" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-logging_1_2.xsd" />
+    <resource url="urn:jboss:domain:logging:1.3" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-logging_1_3.xsd" />
+    <resource url="urn:jboss:domain:logging:1.4" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-logging_1_4.xsd" />
+    <resource url="urn:jboss:domain:logging:1.5" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-logging_1_5.xsd" />
+    <resource url="urn:jboss:domain:mail:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-mail_1_0.xsd" />
+    <resource url="urn:jboss:domain:mail:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-mail_1_1.xsd" />
+    <resource url="urn:jboss:domain:mail:1.2" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-mail_1_2.xsd" />
+    <resource url="urn:jboss:domain:messaging:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-messaging_1_0.xsd" />
+    <resource url="urn:jboss:domain:messaging:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-messaging_1_1.xsd" />
+    <resource url="urn:jboss:domain:messaging:1.2" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-messaging_1_2.xsd" />
+    <resource url="urn:jboss:domain:messaging:1.3" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-messaging_1_3.xsd" />
+    <resource url="urn:jboss:domain:messaging:1.4" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-messaging_1_4.xsd" />
+    <resource url="urn:jboss:domain:modcluster:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-mod-cluster_1_0.xsd" />
+    <resource url="urn:jboss:domain:modcluster:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-mod-cluster_1_1.xsd" />
+    <resource url="urn:jboss:domain:modcluster:1.2" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-mod-cluster_1_2.xsd" />
+    <resource url="urn:jboss:domain:naming:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-naming_1_0.xsd" />
+    <resource url="urn:jboss:domain:naming:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-naming_1_1.xsd" />
+    <resource url="urn:jboss:domain:naming:1.2" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-naming_1_2.xsd" />
+    <resource url="urn:jboss:domain:naming:1.3" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-naming_1_3.xsd" />
+    <resource url="urn:jboss:domain:naming:1.4" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-naming_1_4.xsd" />
+    <resource url="urn:jboss:domain:osgi:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-osgi_1_0.xsd" />
+    <resource url="urn:jboss:domain:osgi:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-osgi_1_1.xsd" />
+    <resource url="urn:jboss:domain:osgi:1.2" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-osgi_1_2.xsd" />
+    <resource url="urn:jboss:domain:picketlink-federation:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/wildfly-picketlink-federation_1_0.xsd" />
+    <resource url="urn:jboss:domain:picketlink-federation:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/wildfly-picketlink-federation_1_1.xsd" />
+    <resource url="urn:jboss:domain:picketlink-identity-management:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/wildfly-picketlink-idm_1_0.xsd" />
+    <resource url="urn:jboss:domain:picketlink-identity-management:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/wildfly-picketlink-idm_1_1.xsd" />
+    <resource url="urn:jboss:domain:pojo:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-pojo_1_0.xsd" />
+    <resource url="urn:jboss:domain:remoting:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-remoting_1_0.xsd" />
+    <resource url="urn:jboss:domain:remoting:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-remoting_1_1.xsd" />
+    <resource url="urn:jboss:domain:remoting:1.2" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-remoting_1_2.xsd" />
+    <resource url="urn:jboss:domain:resource-adapters:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-resource-adapters_1_0.xsd" />
+    <resource url="urn:jboss:domain:resource-adapters:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-resource-adapters_1_1.xsd" />
+    <resource url="urn:jboss:domain:sar:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-sar_1_0.xsd" />
+    <resource url="urn:jboss:domain:security:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-security_1_0.xsd" />
+    <resource url="urn:jboss:domain:security:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-security_1_1.xsd" />
+    <resource url="urn:jboss:domain:security:1.2" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-security_1_2.xsd" />
+    <resource url="urn:jboss:domain:threads:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-threads_1_0.xsd" />
+    <resource url="urn:jboss:domain:threads:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-threads_1_1.xsd" />
+    <resource url="urn:jboss:domain:transactions:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-txn_1_0.xsd" />
+    <resource url="urn:jboss:domain:transactions:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-txn_1_1.xsd" />
+    <resource url="urn:jboss:domain:transactions:1.2" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-txn_1_2.xsd" />
+    <resource url="urn:jboss:domain:transactions:1.3" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-txn_1_3.xsd" />
+    <resource url="urn:jboss:domain:transactions:1.4" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-txn_1_4.xsd" />
+    <resource url="urn:jboss:domain:transactions:1.5" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-txn_1_5.xsd" />
+    <resource url="urn:jboss:domain:web:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-web_1_0.xsd" />
+    <resource url="urn:jboss:domain:web:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-web_1_1.xsd" />
+    <resource url="urn:jboss:domain:web:1.2" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-web_1_2.xsd" />
+    <resource url="urn:jboss:domain:web:1.3" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-web_1_3.xsd" />
+    <resource url="urn:jboss:domain:web:1.4" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-web_1_4.xsd" />
+    <resource url="urn:jboss:domain:web:1.5" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-web_1_5.xsd" />
+    <resource url="urn:jboss:domain:web:2.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-web_2_1.xsd" />
+    <resource url="urn:jboss:domain:web:2.2" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-web_2_2.xsd" />
+    <resource url="urn:jboss:domain:webservices:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-webservices_1_0.xsd" />
+    <resource url="urn:jboss:domain:webservices:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-webservices_1_1.xsd" />
+    <resource url="urn:jboss:domain:webservices:1.2" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-webservices_1_2.xsd" />
+    <resource url="urn:jboss:domain:weld:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-weld_1_0.xsd" />
+    <resource url="urn:jboss:domain:xts:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-xts_1_0.xsd" />
+    <resource url="urn:jboss:ejb-client:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-ejb-client_1_0.xsd" />
+    <resource url="urn:jboss:ejb-client:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-ejb-client_1_1.xsd" />
+    <resource url="urn:jboss:ejb-client:1.2" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-ejb-client_1_2.xsd" />
+    <resource url="urn:jboss:java-properties" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/java-properties_1_0.xsd" />
+    <resource url="urn:jboss:jboss-jpa:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-jpa_1_0.xsd" />
+    <resource url="urn:jboss:jbossws-jaxws-config:4.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jbossws-jaxws-config_4_0.xsd" />
+    <resource url="urn:jboss:jndi-binding-service:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jndi-binding-service_1_0.xsd" />
+    <resource url="urn:jboss:messaging-deployment:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-as-messaging-deployment_1_0.xsd" />
+    <resource url="urn:jboss:module:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/module-1_0.xsd" />
+    <resource url="urn:jboss:module:1.1" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/module-1_1.xsd" />
+    <resource url="urn:jboss:module:1.2" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/module-1_2.xsd" />
+    <resource url="urn:jboss:module:1.3" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/module-1_3.xsd" />
+    <resource url="urn:jboss:pojo:7.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-pojo_7_0.xsd" />
+    <resource url="urn:jboss:service:7.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/jboss-service_7_0.xsd" />
+    <resource url="urn:jboss:user-roles:1.0" location="$USER_HOME$/dev/server/jboss-eap-6.4/docs/schema/user-roles_1_0.xsd" />
+  </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="C:/Program Files/iojs/node.exe" version="1.6.3" last-modified="1427796172000" />
+  </component>
+  <component name="PersistenceGenerationSettings">
+    <option name="addToUnit" value="true" />
+    <option name="ADD_TO_UNIT" value="true" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <YouTrack shared="false" url="http://vsrvprdjutil">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="defaultSearch" value="project: JE-ISPS-Tool sort by: updated #Unresolved " />
+      <password>dff9df99dfdedfe7df99dfe3dfc4df9cdf9cdf9c</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>Szostek</username>
+    </YouTrack>
+    <YouTrack shared="true" url="https://isps-tool.myjetbrains.com/youtrack">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="defaultSearch" value="Assignee: me sort by: updated #Unresolved" />
+      <password>dfeddf99dfdedfe7df99dfe3dfc4</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>jochen.szostek</username>
+    </YouTrack>
+    <YouTrack shared="false" url="http://vsrvjutil">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="defaultSearch" value="project: JE-ISPS-Tool #Unresolved Type: -Epic" />
+      <password>dfe6df99dfdedfe7df99dfe3dfc4df9cdf9cdf9c</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>Szostek</username>
+    </YouTrack>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="TYPE_COOK_COOK_OBJECTS" value="true" />
+    <option name="TYPE_COOK_PRODUCE_WILDCARDS" value="true" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
+    <option name="RENAME_INHERITORS" value="false" />
+    <option name="RENAME_VARIABLES" value="false" />
+    <option name="RENAME_TESTS" value="false" />
+  </component>
+  <component name="WebServicesPluginSettings" WritableGeneratedFiles="true" SelectedPlatform="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" SelectedBinding="ADB" PathToAxis2="C:\Users\Szostek\dev\util\axis2-1.6.3" PathToJBossWS="C:\Users\Szostek\dev\util\jbossws-cxf-bin-dist" PathToXmlBeans="C:\Users\Szostek\dev\util\xmlbeans-1.x\src">
+    <StubPackage>be.fgov.mobilit.maritiem.ispstool.gen</StubPackage>
+    <StubPackage>be.fgov.mobilit.maritiem.ispstool.gen.cbs</StubPackage>
+    <StubPackage>be.fgov.mobilit.maritiem.ispstool.gen</StubPackage>
+    <StubPackage>be.fgov.mobilit.maritiem.ispstool.ws.gen.partner</StubPackage>
+    <StubPackage>be.fgov.mobilit.maritiem.ispstool.ws.gen.cbs2</StubPackage>
+    <StubPackage>be.fgov.mobilit.maritiem.ispstool.ws.gen.cbs</StubPackage>
+    <StubPackage>be.fgov.mobilit.maritiem.ispstool.ws.gen.partner</StubPackage>
+    <StubPackage>be.fgov.mobilit.maritiem.ispstool.ws.gen.partner3</StubPackage>
+    <StubPackage>be.fgov.mobilit.maritiem.ispstool.ws.gen.partner4</StubPackage>
+    <StubPackage>be.fgov.mobilit.maritiem.ispstool.ws.gen.partner3</StubPackage>
+    <StubPackage>be.fgov.mobilit.maritiem.ispstool.ws.gen.partner2</StubPackage>
+    <StubPackage>be.fgov.mobilit.maritiem.ispstool.ws.gen.partner</StubPackage>
+    <StubPackage>be.fgov.mobilit.maritiem.ispstool.ws.jaxbgen.partner2</StubPackage>
+    <StubPackage>be.fgov.mobilit.maritiem.ispstool.ws.jaxbgen.partner</StubPackage>
+    <StubPackage>be.fgov.mobilit.maritiem.ispstool.ws.gen.cbs</StubPackage>
+    <StubPackage>be.fgov.mobilit.maritiem.ispstool.ws.jaxbgen.partner</StubPackage>
+    <StubPackage>be.fgov.mobilit.maritiem.ispstool.ws.gen.partner</StubPackage>
+    <StubPackage>be.fgov.mobilit.maritiem.ispstool.ws.partner</StubPackage>
+    <StubPackage>be.fgov.mobilit.maritiem.ispstool.ws.wsdl</StubPackage>
+    <StubPackage>be.fgov.mobilit.maritiem.ispstool.ws.jaxb</StubPackage>
+    <StubPackage>be.fgov.mobilit.maritiem.ispstool.ws.extra</StubPackage>
+    <StubPackage>be.fgov.mobilit.maritiem.ispstool.ws.cbs</StubPackage>
+    <StubPackage>be.fgov.mobilit.maritiem.ispstool.ws.partner</StubPackage>
+    <StubPackage>be.fgov.mobilit.maritiem.ispstool.ws.partner.gen</StubPackage>
+    <StubPackage>be.fgov.mobilit.maritiem.ispstool.ws.partner</StubPackage>
+    <StubUrl>file:/$USER_HOME$/dev/GitHub/JE-ISPS-Tool/src/main/dev/xsd/latest/CBS_Partner_Jochen.wsdl</StubUrl>
+    <StubUrl>file:/$USER_HOME$/dev/GitHub/JE-ISPS-Tool/src/main/dev/xsd/latest/CBS.Jochen.wsdl</StubUrl>
+    <StubUrl>file:/$USER_HOME$/dev/GitHub/JE-ISPS-Tool/src/main/dev/xsd/latest/PartnerJochen.wsdl</StubUrl>
+    <StubUrl>file:/$USER_HOME$/dev/GitHub/JE-ISPS-Tool/src/main/dev/xsd/PartnerJochen.wsdl</StubUrl>
+    <StubUrl>file:/$USER_HOME$/dev/GitHub/JE-ISPS-Tool/src/main/dev/xsd/CBS.Jochen.wsdl</StubUrl>
+    <StubUrl>file:/$USER_HOME$/dev/GitHub/JE-ISPS-Tool/src/main/webapp/WEB-INF/wsdl/Partner.wsdl</StubUrl>
+    <StubUrl>file:/$USER_HOME$/dev/projects/ISPS-Tool/code/JE-ISPS-Tool/src/main/dev/xsd/PartnerJochen.wsdl</StubUrl>
+    <StubUrl>file:/$USER_HOME$/dev/projects/ISPS-Tool/code/JE-ISPS-Tool/src/main/resources/xsd/PartnerJochen.wsdl</StubUrl>
+    <StubUrl>file:/$USER_HOME$/dev/GitHub/JE-ISPS-Tool/src/main/resources/xsd/CBS.Jochen.wsdl</StubUrl>
+    <StubUrl>file:/$USER_HOME$/dev/GitHub/JE-ISPS-Tool/src/main/resources/xsd/CBS.wsdl</StubUrl>
+    <StubUrl>file:/$USER_HOME$/dev/GitHub/JE-ISPS-Tool/src/main/resources/xsd/PartnerJochen.wsdl</StubUrl>
+    <StubUrl>file:/$USER_HOME$/dev/GitHub/JE-ISPS-Tool/src/main/resources/xsd/Partner.wsdl</StubUrl>
+    <StubUrl>file:/$USER_HOME$/dev/projects/ISPS-Tool/JE-ISPS-Tool/_stuff/XSD-Pack_4.1.3/xsd/Partner.wsdl</StubUrl>
+    <StubUrl>file:/$USER_HOME$/dev/projects/ISPS-Tool/JE-ISPS-Tool/src/stuff/XSD-Pack_4.1.3/xsd/Partner.wsdl</StubUrl>
+    <StubUrl>file:/$USER_HOME$/dev/projects/ISPS-Tool/JE-ISPS-Tool/src/main/resources/XSD-Pack_4.1.3/xsd/Partner.wsdl</StubUrl>
+    <StubUrl>file:/$USER_HOME$/dev/projects/ISPS-Tool/JE-ISPS-Tool/src/main/resources/XSD-Pack_4.1.3/xsd/CBS.wsdl</StubUrl>
+    <StubUrl>file:/$USER_HOME$/dev/projects/ISPS-Tool/JE-ISPS-Tool/src/main/resources/XSD-Pack_4.1.3/cbs/CBS.wsdl</StubUrl>
+    <StubUrl>file:/$USER_HOME$/dev/projects/ISPS-Tool/JE-ISPS-WS/XSD-Pack_4.1.3/xsd/CBS.wsdl</StubUrl>
+    <StubUrl>file:/$USER_HOME$/dev/projects/ISPS-Tool/ISPS-Tool-WS/XSD-Pack_4.1.3/xsd/Partner.wsdl</StubUrl>
+    <StubUrl>file:/$USER_HOME$/dev/projects/ISPS-Tool/JE-ISPS-WS/XSD-Pack_4.1.3/xsd/Partner.wsdl</StubUrl>
+    <StubUrl>file:/$USER_HOME$/dev/projects/ISPS-Tool/ISPS-Tool-WS-partner/XSD-Pack_4.1.3/xsd/Partner.wsdl</StubUrl>
+    <StubUrl>file:/$USER_HOME$/dev/projects/ISPS-Tool/ISPS-Tool/XSD-Pack_4.1.3/xsd/Partner.wsdl</StubUrl>
+    <StubUrl>file:/$USER_HOME$/dev/projects/ISPS-Tool/ISPS-Tool/META-INF/wsdl/HelloPortType.wsdl</StubUrl>
+    <StubUrl>file:/$USER_HOME$/dev/projects/ISPS-Tool/ISPS-Tool/XSD-Pack_4.1.3/xsd/CBS.wsdl</StubUrl>
+    <JAXBUrl>file:/$USER_HOME$/dev/GitHub/JE-ISPS-Tool/src/main/dev/xsdpack_test/xsd/Common.xsd</JAXBUrl>
+    <JAXBUrl>file:/$USER_HOME$/dev/GitHub/JE-ISPS-Tool/src/main/resources/xsd/Publicatie_Details__200_Beweging_v6.xsd</JAXBUrl>
+    <JAXBUrl>file:/$USER_HOME$/dev/GitHub/JE-ISPS-Tool/src/main/resources/xsd/Proces_Bericht__4200_Status.xsd</JAXBUrl>
+    <JAXBUrl>file:/$USER_HOME$/dev/GitHub/JE-ISPS-Tool/src/main/resources/xsd/Proces_Bericht__4300_Result.xsd</JAXBUrl>
+    <JAXBUrl>file:/$USER_HOME$/dev/GitHub/JE-ISPS-Tool/src/main/resources/xsd/PartnerJochen.wsdl</JAXBUrl>
+    <JAXBUrl>file:/$USER_HOME$/dev/GitHub/JE-ISPS-Tool/src/main/resources/xsd/Proces_Bericht__4301_Result_v2.xsd</JAXBUrl>
+    <JAXBUrl>file:/$USER_HOME$/dev/GitHub/JE-ISPS-Tool/src/main/resources/xsd/Proces_Bericht__4201_HeartbeatStatus_v2.xsd</JAXBUrl>
+    <JAXBUrl>file:/$USER_HOME$/dev/projects/ISPS-Tool/JE-ISPS-Tool/src/main/resources/XSD-Pack_4.1.3/xsd/Proces_Bericht__4201_HeartbeatStatus_v2.xsd</JAXBUrl>
+    <JAXBUrl>file:/$USER_HOME$/dev/projects/ISPS-Tool/JE-ISPS-Tool/src/main/resources/XSD-Pack_4.1.3/xsd/Common.xsd</JAXBUrl>
+    <JAXBUrl>file:/$USER_HOME$/dev/projects/ISPS-Tool/JE-ISPS-Tool/src/main/resources/XSD-Pack_4.1.3/xsd/Partner.wsdl</JAXBUrl>
+    <JAXBUrl>file:/$USER_HOME$/dev/projects/ISPS-Tool/JE-ISPS-Tool/src/main/resources/XSD-Pack_4.1.3/xsd/Publicatie_Details__200_Beweging_v5.xsd</JAXBUrl>
+    <JAXBUrl>file:/$USER_HOME$/dev/projects/ISPS-Tool/JE-ISPS-WS/XSD-Pack_4.1.3/xsd/Publicatie_Details__200_Beweging_v5.xsd</JAXBUrl>
+    <JAXBUrl>file:/$USER_HOME$/dev/projects/ISPS-Tool/ISPS-Tool/META-INF/wsdl/HelloPortType.wsdl</JAXBUrl>
+    <JAXBUrl>file:/$USER_HOME$/dev/projects/ISPS-Tool/ISPS-Tool/META-INF/wsdl/HelloPortType_schema1.xsd</JAXBUrl>
+    <JAXBUrl>file:/$USER_HOME$/dev/projects/ISPS-Tool/ISPS-Tool/XSD-Pack_4.1.3/xsd/CBS.wsdl</JAXBUrl>
+    <XmlBeansUrl>/C:/Users/Szostek/dev/projects/ISPS-Tool/JE-ISPS-CBS-Adaptor-master/p_core_connector_gen/src/main/resources/xsd/Partner.wsdl</XmlBeansUrl>
+  </component>
+</application>
