@@ -400,12 +400,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="8000" />
-        <option name="BACKGROUND" value="ffcccc" />
-      </value>
-    </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="80d1ff" />
@@ -496,11 +490,6 @@
       </value>
     </option>
     <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_DOC_MARKUP">
-      <value>
-        <option name="BACKGROUND" value="e2ffe2" />
-      </value>
-    </option>
     <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
@@ -510,12 +499,6 @@
     </option>
     <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
     <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_INVALID_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="8000" />
-        <option name="BACKGROUND" value="ffcccc" />
-      </value>
-    </option>
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="66d9ef" />
@@ -1289,7 +1272,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3a5469" />
+        <option name="BACKGROUND" value="200e6" />
       </value>
     </option>
     <option name="METHOD_CALL_ATTRIBUTES">
@@ -1851,12 +1834,6 @@
         <option name="BACKGROUND" value="ffe792" />
       </value>
     </option>
-    <option name="SPY-JS.PATH_LEVEL_ONE">
-      <value>
-        <option name="BACKGROUND" value="e2ffe2" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="SQL_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="f92772" />
@@ -2031,12 +2008,6 @@
         <option name="FOREGROUND" value="48ff60" />
       </value>
     </option>
-    <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="7f0000" />
-        <option name="FONT_TYPE" value="3" />
-      </value>
-    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="f1f1f1" />
@@ -2166,11 +2137,6 @@
       <value>
         <option name="FOREGROUND" value="500000" />
         <option name="BACKGROUND" value="ffe792" />
-      </value>
-    </option>
-    <option name="WRONG_REFERENCES_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ff0000" />
       </value>
     </option>
     <option name="Wrong number">
