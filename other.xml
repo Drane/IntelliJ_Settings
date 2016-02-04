@@ -65,6 +65,7 @@
     <option name="TYPE_COOK_COOK_OBJECTS" value="true" />
     <option name="TYPE_COOK_PRODUCE_WILDCARDS" value="true" />
     <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="INHERITANCE_TO_DELEGATION_DELEGATE_OTHER" value="true" />
     <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
     <option name="RENAME_INHERITORS" value="false" />
