@@ -133,6 +133,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="dcff00" />
         <option name="BACKGROUND" value="5d4a4a" />
       </value>
     </option>
@@ -677,7 +678,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="3c3f41" />
+        <option name="FOREGROUND" value="a1a5a8" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
