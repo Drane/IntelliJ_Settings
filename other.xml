@@ -9,7 +9,8 @@
     <option name="EMAIL" value="" />
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="C:/Program Files/iojs/node.exe" version="1.6.3" last-modified="1427796172000" />
+    <node-interpreter path="C:/Program Files/nodejs/node.exe" version="5.5.0" last-modified="1453335104000" />
+    <node-interpreter path="C:/Program Files/iojs/node.exe" version="(Does not exist)" last-modified="1454758285730" />
   </component>
   <component name="PersistenceGenerationSettings">
     <option name="addToUnit" value="true" />
