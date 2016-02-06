@@ -64,7 +64,6 @@
     <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
     <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
     <option name="TYPE_COOK_COOK_OBJECTS" value="true" />
-    <option name="TYPE_COOK_PRODUCE_WILDCARDS" value="true" />
     <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
     <option name="INHERITANCE_TO_DELEGATION_DELEGATE_OTHER" value="true" />
     <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
