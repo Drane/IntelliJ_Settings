@@ -136,6 +136,7 @@
       <value>
         <option name="FOREGROUND" value="dcff00" />
         <option name="BACKGROUND" value="5d4a4a" />
+        <option name="EFFECT_COLOR" value="3c3f41" />
       </value>
     </option>
     <option name="Bad character">
@@ -680,6 +681,7 @@
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="a1a5a8" />
+        <option name="BACKGROUND" value="300041" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
