@@ -5,12 +5,14 @@
   </component>
   <component name="TodoConfiguration">
     <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
-      <option name="FOREGROUND" value="7a73ff" />
+      <option name="FOREGROUND" value="0" />
+      <option name="BACKGROUND" value="ff0500" />
       <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="ff" />
     </pattern>
     <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
-      <option name="FOREGROUND" value="7a73ff" />
+      <option name="FOREGROUND" value="0" />
+      <option name="BACKGROUND" value="ff0500" />
       <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="ff" />
     </pattern>
