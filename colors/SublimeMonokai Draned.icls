@@ -2092,9 +2092,7 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="20000" />
-        <option name="BACKGROUND" value="b0ff3f" />
-        <option name="ERROR_STRIPE_COLOR" value="ff00" />
+        <option name="EFFECT_COLOR" value="2dff00" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
