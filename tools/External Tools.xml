@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="C:\Program Files\nodejs\node.exe" />
       <option name="PARAMETERS" value="delete-jboss-datalogtemp.js" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/dev/script" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/Szostek/dev/script" />
     </exec>
   </tool>
 </toolSet>
