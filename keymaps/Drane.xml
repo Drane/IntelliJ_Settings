@@ -41,4 +41,7 @@
     <keyboard-shortcut first-keystroke="pause" />
     <keyboard-shortcut first-keystroke="shift subtract" />
   </action>
+  <action id="codeNavigator.classCloud.toggleHighlightingDependencies">
+    <keyboard-shortcut first-keystroke="alt pause" />
+  </action>
 </keymap>
