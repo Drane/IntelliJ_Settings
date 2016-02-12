@@ -154,7 +154,6 @@
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e5db74" />
-        <option name="BACKGROUND" value="212121" />
       </value>
     </option>
     <option name="COFFEESCRIPT.BAD_CHARACTER">
@@ -498,6 +497,13 @@
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="f1f1f1" />
+        <option name="BACKGROUND" value="a" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="DEFAULT_COMMA">
       <value>
         <option name="FOREGROUND" value="cc7832" />
@@ -999,7 +1005,6 @@
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="66d9ef" />
-        <option name="BACKGROUND" value="212121" />
       </value>
     </option>
     <option name="JAVA_NUMBER">
@@ -2082,7 +2087,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="f1f1f1" />
-        <option name="BACKGROUND" value="a0a0a" />
+        <option name="BACKGROUND" value="a" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
