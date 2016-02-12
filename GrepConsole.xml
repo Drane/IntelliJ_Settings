@@ -4,7 +4,7 @@
       <list>
         <Profile>
           <option name="defaultProfile" value="true" />
-          <option name="enabledHighlighting" value="false" />
+          <option name="enableFoldings" value="true" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
@@ -147,7 +147,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*FATAL.*" />
                       <option name="id" value="7622a70f-c57a-4094-9634-d57acfe8ce9d" />
                       <option name="sound">
@@ -176,7 +175,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*ERROR.*" />
                       <option name="id" value="b201bcad-7a6e-4fb7-9877-3183e1769554" />
                       <option name="sound">
@@ -202,7 +200,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*WARN.*" />
                       <option name="id" value="782f8ff0-247a-45c0-85a0-5003154cedc1" />
                       <option name="sound">
