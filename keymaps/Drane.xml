@@ -10,6 +10,12 @@
   <action id="Javaee.Deploy">
     <keyboard-shortcut first-keystroke="ctrl alt numpad6" />
   </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift alt page_down" />
+  </action>
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="alt end" />
+  </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="alt page_down" />
   </action>
