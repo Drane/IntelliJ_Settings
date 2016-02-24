@@ -5,7 +5,6 @@
         <Profile>
           <option name="defaultProfile" value="true" />
           <option name="enableFoldings" value="true" />
-          <option name="enabledHighlighting" value="false" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
