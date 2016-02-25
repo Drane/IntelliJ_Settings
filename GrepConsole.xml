@@ -12,6 +12,29 @@
                   <list>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value="DEBUG" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="15a10f41-a6f1-446f-afc0-77d9ff849705" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16747009" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16727297" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="67d5a98f-3449-434c-9e1b-91c8dd43e5cd" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
                       <option name="grepExpression" value="WARN" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="7e9957d7-f47b-4987-8391-b215cd26cc38" />
@@ -278,7 +301,7 @@
                         <GrepStyle>
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="color" value="-8355712" />
+                              <option name="color" value="-16715777" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
