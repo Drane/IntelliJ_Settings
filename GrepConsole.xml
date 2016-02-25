@@ -11,6 +11,53 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value="WARN" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="7e9957d7-f47b-4987-8391-b215cd26cc38" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-32256" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="5d236a4b-3f94-45a0-bdfe-2ad76b36822f" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value="INFO" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="47a292b1-a773-4ec0-809f-d60480fe738d" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-14473943" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-459265" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="03fae0b7-126d-4f9b-8ef3-cdf5aa7b3c21" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value="====" />
                       <option name="id" value="ac86dd2b-4da8-4425-a9e4-e1d1ecd44d54" />
                       <option name="style">
