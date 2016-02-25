@@ -125,7 +125,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*.ispstool..*" />
                       <option name="id" value="bf886cc9-127f-42ff-94c3-cb726664abe4" />
                       <option name="style">
@@ -226,7 +225,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="id" value="de762208-1b80-4bb2-93e0-b0250e79bd8a" />
                       <option name="style">
@@ -242,7 +240,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*TRACE.*" />
                       <option name="id" value="2f76aa94-7894-48f5-9ae6-635c22aa9b95" />
                       <option name="style">
