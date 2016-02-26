@@ -16,12 +16,12 @@
   <component name="RecentTaskRepositories">
     <YouTrack shared="false" url="http://vsrvprdjutil">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <option name="defaultSearch" value="project: JE-ISPS-Tool sort by: updated #Unresolved " />
+      <option name="defaultSearch" value="Assignee: me sort by: updated #Unresolved" />
       <password>dff9df99dfdedfe7df99dfe3dfc4df9cdf9cdf9c</password>
       <option name="loginAnonymously" value="false" />
       <option name="preferredCloseTaskState" />
       <option name="preferredOpenTaskState" />
-      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="shouldFormatCommitMessage" value="false" />
       <option name="useHttpAuthentication" value="false" />
       <option name="useProxy" value="false" />
       <username>Szostek</username>
