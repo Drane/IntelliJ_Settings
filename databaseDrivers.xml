@@ -8,11 +8,11 @@
       </library>
     </driver>
     <driver id="oracle" name="Oracle" dialect="Oracle">
-      <option name="auto-sync" value="true" />
+      <option name="auto-sync" value="false" />
       <option name="auto-commit" value="false" />
       <property name="database" value="" />
       <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xmlparserv2_5.jar</url>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xmlparserv2_6.jar</url>
       </library>
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/oracle-driver-license.txt</url>
