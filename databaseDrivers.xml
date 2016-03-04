@@ -8,7 +8,7 @@
       </library>
     </driver>
     <driver id="oracle" name="Oracle" dialect="Oracle">
-      <option name="auto-sync" value="false" />
+      <option name="auto-sync" value="true" />
       <option name="auto-commit" value="false" />
       <property name="database" value="" />
       <library>
