@@ -48,7 +48,7 @@
     </YouTrack>
     <YouTrack shared="true" url="http://prefabsoft.myjetbrains.com/youtrack">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <option name="defaultSearch" value="project: multitouch-playground" />
+      <option name="defaultSearch" value="Assignee: me sort by: updated #Unresolved" />
       <password>dfcbdfd2dfd2dfcfdfd9dfd9</password>
       <option name="loginAnonymously" value="false" />
       <option name="preferredCloseTaskState" />
@@ -56,7 +56,7 @@
       <option name="shouldFormatCommitMessage" value="true" />
       <option name="useHttpAuthentication" value="false" />
       <option name="useProxy" value="false" />
-      <username>jochen.szostek@gmail.com</username>
+      <username>drane</username>
     </YouTrack>
     <YouTrack shared="true" url="https://isps-tool.myjetbrains.com/youtrack">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
