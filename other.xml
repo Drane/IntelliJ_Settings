@@ -29,7 +29,7 @@
   </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="C:/Program Files/nodejs/node.exe" version="5.5.0" last-modified="1453335104000" />
-    <node-interpreter path="C:/Program Files/iojs/node.exe" version="(Does not exist)" last-modified="1458741687537" />
+    <node-interpreter path="C:/Program Files/iojs/node.exe" version="(Does not exist)" last-modified="1458909097362" />
   </component>
   <component name="PersistenceGenerationSettings">
     <option name="addToUnit" value="true" />
